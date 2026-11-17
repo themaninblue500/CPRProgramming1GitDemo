@@ -10,5 +10,11 @@ public class App {
 
         Kiwi kiwi = new Kiwi("John");
         System.out.println(kiwi);
+
+
+
+        
+        Koala koala = new Koala("Tom");
+        System.out.println(koala);
     }
 }
