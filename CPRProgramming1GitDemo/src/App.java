@@ -8,6 +8,9 @@ public class App {
         Dog dog = new Dog("Fido", "Labrador");
         System.out.println(dog);
 
+        shrew shrew = new shrew("Dumbo", "Black and Rufous Sengi");
+        System.out.println(shrew);
+        
         Kiwi kiwi = new Kiwi("John");
         System.out.println(kiwi);
 
