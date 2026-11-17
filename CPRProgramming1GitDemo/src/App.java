@@ -21,5 +21,7 @@ public class App {
         Koala koala = new Koala("Tom");
         System.out.println(koala);
 
+        Cat cat = new Cat("Harry Potter", "Munchkin");
+        System.out.println(cat);
     }
 }
