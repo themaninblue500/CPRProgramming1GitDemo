@@ -4,5 +4,9 @@ public class App {
         // Parent class
         Animal animal = new Animal("Bob");
         System.out.println(animal);
+
+        // Child classes
+        Dog dog = new Dog("Fido");
+        System.out.println(dog);
     }
 }
