@@ -6,7 +6,7 @@ public class App {
         System.out.println(animal);
 
         // Child classes
-        Dog dog = new Dog("Fido");
+        Dog dog = new Dog("Fido", "Labrador");
         System.out.println(dog);
     }
 }
