@@ -6,6 +6,11 @@ public class Dog extends Animal {
         this.breed = breed;
     }
 
+    public Dog(String name) {
+        super(name);
+        this.breed = "Unknown";
+    }
+
     public String getBreed() {
         return breed;
     }
